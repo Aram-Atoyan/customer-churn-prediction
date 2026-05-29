@@ -17,10 +17,9 @@ The project includes:
 
 ## Dataset
 
-**Source:** Telco Customer Churn Dataset
+**Source:** [Telco Customer Churn Dataset on Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
-**Records:** 7,043 customers
-
+**Records:** 7,043 customers  
 **Target Variable:** `Churn`
 
 Features include:
